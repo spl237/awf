@@ -1,0 +1,55 @@
+awf (1.3.2+rpt3) stretch; urgency=medium
+
+  * Add suggested and destructive buttons to GTK+3 window
+
+ -- Simon Long <simon@raspberrypi.org>  Thu, 04 Apr 2019 08:42:35 +0100
+
+awf (1.3.2+rpt2) stretch; urgency=medium
+
+  * Rebuild against stretch
+
+ -- Simon Long <simon@raspberrypi.org>  Mon, 18 Feb 2019 12:58:12 +0000
+
+awf (1.3.2+rpt1) stretch; urgency=medium
+
+  * Add border to listviews; add spacing to buttons
+
+ -- Simon Long <simon@raspberrypi.org>  Thu, 14 Feb 2019 08:16:03 +0000
+
+awf (1.3.2) stretch; urgency=medium
+
+  * Packaged with desktop files
+
+ -- Simon Long <simon@raspberrypi.org>  Mon, 14 Jan 2019 09:45:31 +0000
+
+awf (1.3.1-2) unstable; urgency=medium
+
+  * Update debian/* packaging.
+
+ -- Martin Wimpress <code@flexion.org>  Wed, 12 Oct 2016 18:42:24 +0100
+
+awf (1.3.1-1) unstable; urgency=low
+
+  * fix issue #5: synchro progress bars between gtk2 and gtk3 versions of awf.
+  * fix COPYING.
+  * change desktop category into 'Utilities'.
+
+ -- Valère Monseur <valere.monseur@ymail.com>  Wed, 03 Aug 2016 21:52:00 +0100
+
+awf (1.3.0-1) unstable; urgency=low
+
+  * System and user themes are sorted alphabetically in menus.
+  * Added a check button to show text of progress bars.
+  * Added font, color and file chooser buttons.
+  * Reworked link and switch buttons.
+  * Added icon in scale button.
+  * Added level bar in gtk3 version.
+  * Duplicated the treeview, one with and another without scrollbars.
+
+ -- Valère Monseur <valere.monseur@ymail.com>  Sun, 26 Jan 2014 21:05:00 +0100
+
+awf (1.2.1-2) unstable; urgency=low
+
+  * Initial release
+
+ -- Valère Monseur <valere.monseur@ymail.com>  Thu, 30 Oct 2012 22:44:00 +0100
